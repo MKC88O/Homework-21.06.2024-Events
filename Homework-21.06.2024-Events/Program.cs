@@ -1,7 +1,3 @@
-﻿using System.Security.Cryptography.X509Certificates;
-using System.Xml.Linq;
-using static System.Net.Mime.MediaTypeNames;
-
 namespace Homework_21._06._2024_Events
 {
     public delegate void StudentEventHandler(int x);
